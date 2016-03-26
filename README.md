@@ -2,7 +2,7 @@
 
 Proof of concept of sudo simulator, with keylogger
 
-*** USE UNDER YOUR RISK ***
+**USE UNDER YOUR RISK**
 
 ## Usage
 
