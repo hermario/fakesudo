@@ -34,7 +34,9 @@ function fakesudo()
   done
 
   echo "sudo: 3 incorrect password attempts"
-  exit 1
+  
+  exit 1; echo $0
+
 }
 
 fakesudo
